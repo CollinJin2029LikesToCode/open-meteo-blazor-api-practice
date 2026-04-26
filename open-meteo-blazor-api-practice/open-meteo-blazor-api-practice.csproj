@@ -9,4 +9,8 @@
     <BlazorDisableThrowNavigationException>true</BlazorDisableThrowNavigationException>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="SciChart.Blazor" Version="5.0.178-alpha.2" />
+  </ItemGroup>
+
 </Project>
